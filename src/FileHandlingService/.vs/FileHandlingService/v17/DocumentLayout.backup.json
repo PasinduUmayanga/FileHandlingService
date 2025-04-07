@@ -98,8 +98,7 @@
               "RelativeToolTip": "FHS.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T13:31:20.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T13:31:20.382Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "FHS.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:22:55.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T13:22:55.633Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "FHS.Application\\Abstractions\\IFileServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:08:44.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T13:08:44.144Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "FHS.Api\\Controllers\\FileHandlingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:06:22.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T13:06:22.611Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "FHS.Domain\\Attributes\\ExcelColumnAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:59:42.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:59:42.464Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "FHS.Domain\\DTOs\\InspectionSummaryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:58:55.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:58:55.378Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "FHS.Domain\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:40:30.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:40:30.722Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "FHS.Application\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:16:59.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:16:59.627Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "FHS.Infrastructure\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:59:42.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:59:42.545Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "FHS.Application\\Abstractions\\IExcelReaderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:58:56.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:58:56.113Z"
             },
             {
               "$type": "Document",
@@ -239,7 +229,7 @@
               "RelativeDocumentMoniker": "FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
               "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
               "RelativeToolTip": "FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:55:38.134Z",
               "EditorCaption": ""
