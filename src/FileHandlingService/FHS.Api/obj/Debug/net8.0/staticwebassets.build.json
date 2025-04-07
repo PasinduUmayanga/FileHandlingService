@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "am9HyZLFkhUrZLWDVZ2m/bDiAG+3rD35exZb9iAr62Y=",
+  "Source": "FHS.Api",
+  "BasePath": "_content/FHS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

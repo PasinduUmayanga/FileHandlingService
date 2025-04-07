@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FHS.Api.props" />
+</Project>

@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using FHS.Application.Abstractions;
+using FHS.Infrastructure.Services.FileHandling.Excel;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace FHS.Infrastructure
@@ -13,6 +15,7 @@ namespace FHS.Infrastructure
         /// <returns></returns>
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
+            services.AddScoped<IExcelReaderService, ExcelReaderService>();
             return services;
         }
     }

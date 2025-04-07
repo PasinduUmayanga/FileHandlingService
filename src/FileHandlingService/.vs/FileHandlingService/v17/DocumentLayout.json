@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.domain\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|solutionrelative:fhs.domain\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.infrastructure\\services\\filehandling\\excel\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|solutionrelative:fhs.infrastructure\\services\\filehandling\\excel\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|solutionrelative:fhs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.application\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|solutionrelative:fhs.application\\services\\fileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.domain\\dtos\\inspectionsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|solutionrelative:fhs.domain\\dtos\\inspectionsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.api\\controllers\\filehandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|solutionrelative:fhs.api\\controllers\\filehandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|solutionrelative:fhs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A208E2-4601-4228-887A-9F9AA03ADDAB}|FHS.Api\\FHS.Api.csproj|solutionrelative:fhs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|solutionrelative:fhs.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.infrastructure\\services\\filehandling\\excel\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|solutionrelative:fhs.infrastructure\\services\\filehandling\\excel\\excelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894DB378-56B6-42B6-A4D8-4AF1AB5877AC}|FHS.Infrastructure\\FHS.Infrastructure.csproj|solutionrelative:fhs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.domain\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|solutionrelative:fhs.domain\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.application\\abstractions\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|solutionrelative:fhs.application\\abstractions\\ifileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.application\\abstractions\\iexcelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE4DF66-B066-41C6-A580-C8F3DC28F8E6}|FHS.Application\\FHS.Application.csproj|solutionrelative:fhs.application\\abstractions\\iexcelreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|d:\\files\\old pc\\git hub projects\\filehandlingservice\\src\\filehandlingservice\\fhs.domain\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4912ED8-28B5-4116-B2F8-C0B861D97918}|FHS.Domain\\FHS.Domain.csproj|solutionrelative:fhs.domain\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,85 +86,160 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FHS.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FHS.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T13:31:20.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "FHS.Domain\\ConfigureServices.cs",
-              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\ConfigureServices.cs",
-              "RelativeToolTip": "FHS.Domain\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FHS.Api\\Program.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Program.cs",
+              "RelativeToolTip": "FHS.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:24:40.659Z",
+              "WhenOpened": "2025-04-07T13:22:55.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileServices.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Abstractions\\IFileServices.cs",
+              "RelativeDocumentMoniker": "FHS.Application\\Abstractions\\IFileServices.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Abstractions\\IFileServices.cs",
+              "RelativeToolTip": "FHS.Application\\Abstractions\\IFileServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:08:44.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileServices.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Services\\FileServices.cs",
+              "RelativeDocumentMoniker": "FHS.Application\\Services\\FileServices.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Services\\FileServices.cs",
+              "RelativeToolTip": "FHS.Application\\Services\\FileServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:08:24.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHandlingController.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Controllers\\FileHandlingController.cs",
+              "RelativeDocumentMoniker": "FHS.Api\\Controllers\\FileHandlingController.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Api\\Controllers\\FileHandlingController.cs",
+              "RelativeToolTip": "FHS.Api\\Controllers\\FileHandlingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:06:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcelColumnAttribute.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\Attributes\\ExcelColumnAttribute.cs",
+              "RelativeDocumentMoniker": "FHS.Domain\\Attributes\\ExcelColumnAttribute.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\Attributes\\ExcelColumnAttribute.cs",
+              "RelativeToolTip": "FHS.Domain\\Attributes\\ExcelColumnAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:59:42.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "InspectionSummaryDto.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\DTOs\\InspectionSummaryDto.cs",
+              "RelativeDocumentMoniker": "FHS.Domain\\DTOs\\InspectionSummaryDto.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\DTOs\\InspectionSummaryDto.cs",
+              "RelativeToolTip": "FHS.Domain\\DTOs\\InspectionSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:58:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "FHS.Domain\\ConfigureServices.cs",
+              "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\ConfigureServices.cs",
+              "RelativeToolTip": "FHS.Domain\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:40:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "FHS.Application\\ConfigureServices.cs",
               "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\ConfigureServices.cs",
               "RelativeToolTip": "FHS.Application\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T12:16:59.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "FHS.Infrastructure\\ConfigureServices.cs",
               "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\ConfigureServices.cs",
               "RelativeToolTip": "FHS.Infrastructure\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:59:42.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IExcelReaderService.cs",
               "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Abstractions\\IExcelReaderService.cs",
               "RelativeDocumentMoniker": "FHS.Application\\Abstractions\\IExcelReaderService.cs",
               "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Application\\Abstractions\\IExcelReaderService.cs",
               "RelativeToolTip": "FHS.Application\\Abstractions\\IExcelReaderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:58:56.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ExcelReaderService.cs",
               "DocumentMoniker": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
               "RelativeDocumentMoniker": "FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
               "ToolTip": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
               "RelativeToolTip": "FHS.Infrastructure\\Services\\FileHandling\\Excel\\ExcelReaderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:55:38.134Z",
               "EditorCaption": ""

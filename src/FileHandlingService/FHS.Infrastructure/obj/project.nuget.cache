@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EPn4p3x/qzA=",
+  "dgSpecHash": "32Far3BwVMU=",
   "success": true,
   "projectFilePath": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Infrastructure\\FHS.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
+    "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512",
     "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512"
