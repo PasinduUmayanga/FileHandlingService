@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t9WNIIahzKs=",
+  "dgSpecHash": "JN0/tm6iIrw=",
   "success": true,
   "projectFilePath": "D:\\Files\\OLD PC\\Git Hub Projects\\FileHandlingService\\src\\FileHandlingService\\FHS.Domain\\FHS.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PasinduUmayanga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
