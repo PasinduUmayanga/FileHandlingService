@@ -1,6 +1,6 @@
 # FileHandlingService
 
-[![AppVeyor build](https://ci.appveyor.com/api/projects/status/github/PasinduUmayanga/FileHandlingService?branch=main&svg=true)](https://ci.appveyor.com/project/PasinduUmayanga/FileHandlingService)
+[![Build status](https://ci.appveyor.com/api/projects/status/i437tlneq9s984mt?svg=true)](https://ci.appveyor.com/project/Mahadenamuththa/filehandlingservice)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?logo=dotnet)](https://learn.microsoft.com/aspnet/core)
 [![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-2E8B57)](#project-structure)
